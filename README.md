@@ -122,7 +122,7 @@ footer{
 
 
 ## OUTPUT:
-![Screenshot 2024-04-25 193745](https://github.com/BharathJayachandran/cover/assets/122089525/f99943f0-f8e0-421b-9039-8a7b43a10cac)
+![193745](https://github.com/BharathJayachandran/cover/assets/122089525/f7a17d89-01e7-4942-969b-0a2c0df01e83)
 
 
 
